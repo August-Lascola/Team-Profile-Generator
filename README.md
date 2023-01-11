@@ -1,6 +1,6 @@
 # Team-Profile-Generator
 
-![Alt text](.\Assets\Projectsshot.png)
+![Alt text](Team-Profile-Generator-main/Assets/Projectsshot.png)
 ## CONTENTS OF THIS FILE
 -------------
 Introduction
